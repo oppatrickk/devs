@@ -336,13 +336,17 @@
 		],
 		"about": "Flutter developer since 2019"
 	},
-  {
-   "name": "Zen Rabanes",
-   "roles": ["Flutter Dev", "UX | UI"],
-   "about": "coffee.exe"
-},
-{
- "name": "John Patrick Prieto",
- "roles": ["Novice Flutter Dev", "Game Developer", "Student"],
- "about": "Computer Science Freshman"
+ 	{
+  		"name": "Zen Rabanes",
+ 		"roles": ["Flutter Dev", "UX | UI"],
+		"about": "coffee.exe"
+	},
+	{
+		"name": "John Patrick Prieto",
+		"roles": [
+			"Novice Flutter Dev",
+			"Game Developer",
+			"Student"
+		],
+		"about": "Computer Science Freshman"
 }]
